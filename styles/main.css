@@ -1,0 +1,27 @@
+/* font  */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+.banner-img-opacity {
+  opacity: 70%;
+}
+.banner-text {
+  color: #ffffff;
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  opacity: 100%;
+}
+.footer-section-style {
+  background: rgba(255, 193, 7, 0.05);
+  color: var(--Dark-02, #403f3f);
+  font-family: Poppins;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 20px;
+}
